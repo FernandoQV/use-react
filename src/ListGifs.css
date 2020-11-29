@@ -1,0 +1,7 @@
+.gifs{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    grid-template-rows: 350px;
+    gap: 25px;
+    padding: 1rem;
+}
